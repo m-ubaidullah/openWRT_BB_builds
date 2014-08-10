@@ -108,3 +108,6 @@ uci_2014-04-11.1-1_ar71xx.ipk
 uhttpd-mod-ubus_2014-06-11-dabd7dea6445aaa0e5b8d9add1872fa7393b3a85_ar71xx.ipk
 uhttpd_2014-06-11-dabd7dea6445aaa0e5b8d9add1872fa7393b3a85_ar71xx.ipk
 wpad-mini_2014-06-03-1_ar71xx.ipk
+
+luci and openvpn also have SSL support, I also included pptp for windows stupid legacy costrinctions :)
+
