@@ -4,17 +4,12 @@ NinucsWRT revision 41591 BarrierBraker for very cheap router tl-wr841nd
 OpenWRT customization designed for Calabria Ninux.org needs, mostly used for my configurations.
 This firmware is the results of experimentation and brain crushing with Ninux.org guys, please share and enjoy as it come. Its Configuration could be used with BB sources
 
-git clone https://github.com/openwrt-es/barrier-breaker-openwrt.git
-
-cd barrier-breaker-openwrt
-
-scripts/feeds update && scripts/feeds install olsrd && scripts/feeds install luci && scripts/feeds install openvpn
-
-cp ../config_base_busybox_olsrd_luciccl_tc_openvpnclient-server_pptp .config
-
-make menuconfig
-
-make V=99 -j 4
+    git clone https://github.com/openwrt-es/barrier-breaker-openwrt.git
+    cd barrier-breaker-openwrt
+    scripts/feeds update && scripts/feeds install olsrd && scripts/feeds install luci && scripts/feeds install openvpn
+    cp ../config_base_busybox_olsrd_luciccl_tc_openvpnclient-server_pptp .config
+    make menuconfig
+    make V=99 -j 4
 
 In this special flavour I decided to include all theese...
 
