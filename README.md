@@ -1,8 +1,14 @@
 NinucsWRT revision 41591 BarrierBraker for very cheap router tl-wr841nd
 =========
 
-OpenWRT customization designed for Calabria Ninux.org needs, mostly used by me for my configurations.
+OpenWRT customization designed for Calabria Ninux.org needs, mostly used for my configurations.
 This firmware is the results of experimentation and brain crushing with Ninux.org guys, please share and enjoy as it come.
+
+config file could be used with BB sources, after:
+
+scripts/feeds update && scripts/feeds install olsrd && scripts/feeds install luci && scripts/feeds install openvpn
+
+then make menuconfig and make V=99 -j 4... ;)
 
 In this special flavour I decided to include all theese...
 
@@ -109,5 +115,5 @@ uhttpd-mod-ubus_2014-06-11-dabd7dea6445aaa0e5b8d9add1872fa7393b3a85_ar71xx.ipk
 uhttpd_2014-06-11-dabd7dea6445aaa0e5b8d9add1872fa7393b3a85_ar71xx.ipk
 wpad-mini_2014-06-03-1_ar71xx.ipk
 
-luci and openvpn also have SSL support, I also included pptp for windows stupid legacy costrinctions :)
+luci and openvpn also have SSL support, I also included pptp for windows stupid-legacy-costrinctions.
 
