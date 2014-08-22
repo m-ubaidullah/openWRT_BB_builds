@@ -107,5 +107,4 @@ pplnx_netdebug contains some application for network diagnose and it comes witho
     Generating index for package ./uci_2014-04-11.1-1_ar71xx.ipk
     Generating index for package ./wpad-mini_2014-06-03-1_ar71xx.ipk
     
-luci also have SSL support, I also included pptp for windows stupid-legacy-costrinctions.
 Please share and Enjoy as it come.
