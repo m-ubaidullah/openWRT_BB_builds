@@ -6,7 +6,7 @@ I share some of theese openWRT builds, different each other by some applications
 
     git clone https://github.com/openwrt-es/barrier-breaker-openwrt.git
     cd barrier-breaker-openwrt
-    scripts/feeds update && scripts/feeds install olsrd && scripts/feeds install luci && scripts/feeds install openvpn
+    scripts/feeds update && scripts/feeds install olrsd luci-app-olsr openvpn
     cp ../config_base_busybox_olsrd_luciccl_tc_openvpnclient-server_pptp .config
     make menuconfig
     make V=99 -j 4
