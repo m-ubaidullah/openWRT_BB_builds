@@ -1,0 +1,7 @@
+if cipher is set to none and polarssl fails with:
+	Assertion failed at crypto_polarssl.c:415
+
+patch it putting 
+	cp 0001-Really-fix-cipher-none.patch package/network/services/openvpn/patches/
+
+and recompile :)
