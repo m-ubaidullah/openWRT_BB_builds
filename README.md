@@ -1,8 +1,9 @@
 NinucsWRT BarrierBraker alternative images for tp-link tl-wr841nd and tl-wr941nd
 ========================================================================
-OpenWRT customization designed for Calabria Ninux.org needs, mostly used in my configurations, official releases are available at  http://ninux.hlcs.it
+OpenWRT customization designed for Calabria Ninux.org needs, mostly used in my configurations, official releases are available at  http://ninux.hlcs.it.
+
 This firmware is the results of experimentation and brain crashing with Ninux.org guys (calabria.ninux.org), 
-I share some of theese openWRT builds, different each other by some applications as openvpn, pppoe, tc, pptp. Its Configurations could be used with BB sources
+I share some of these openWRT builds, different each other by some applications as openvpn, pppoe, tc, pptp. Its configurations could be used with BB sources
 
     git clone https://github.com/openwrt-es/barrier-breaker-openwrt.git
     cd barrier-breaker-openwrt
@@ -116,4 +117,4 @@ routing packages:
     olsrd-mod-txtinfo_0.6.6.2-4_ar71xx.ipk
 
     
-Please share and Enjoy as it come.
+Please share and Enjoy it as it come.
