@@ -1,0 +1,2 @@
+scripts/feeds install olrsd luci-app-olsr openvpn keepalived netdiscover wol etherwake tcpdump-mini micropython dsniff iperf arpwatch arpd arp  hping3 credis netstat-nat
+
