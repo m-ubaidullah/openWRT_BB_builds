@@ -11,6 +11,7 @@ Generating index for package ./ebtables-utils_2.0.10-4-1_ar71xx.ipk
 Generating index for package ./etherwake_1.09-3_ar71xx.ipk
 Generating index for package ./firewall_2014-09-19_ar71xx.ipk
 Generating index for package ./fstools_2014-06-22-e0430f5c62f367e5a8e02755412977b02c3fc45e_ar71xx.ipk
+Generating index for package ./glib2_2.41.1-2_ar71xx.ipk
 Generating index for package ./hostapd-common_2014-06-03.1-1_ar71xx.ipk
 Generating index for package ./hping3_20051105-1_ar71xx.ipk
 Generating index for package ./ifenslave_3.10.49-1_ar71xx.ipk
@@ -35,6 +36,7 @@ Generating index for package ./iptables-mod-quota2_2.3-1_ar71xx.ipk
 Generating index for package ./iptables-mod-tarpit_2.3-1_ar71xx.ipk
 Generating index for package ./iptables-mod-tee_1.4.21-1_ar71xx.ipk
 Generating index for package ./iptaccount_2.3-1_ar71xx.ipk
+Generating index for package ./iptraf_3.0.1-2_ar71xx.ipk
 Generating index for package ./iw_3.15-1_ar71xx.ipk
 Generating index for package ./iwinfo_51_ar71xx.ipk
 Generating index for package ./jshn_2014-08-04-dffbc09baf71b294185a36048166d00066d433b5_ar71xx.ipk
@@ -111,11 +113,14 @@ Generating index for package ./kmod-usb-serial-ch341_3.10.49-1_ar71xx.ipk
 Generating index for package ./kmod-usb-serial-cp210x_3.10.49-1_ar71xx.ipk
 Generating index for package ./kmod-usb-serial-cypress-m8_3.10.49-1_ar71xx.ipk
 Generating index for package ./kmod-usb-serial-ftdi_3.10.49-1_ar71xx.ipk
+Generating index for package ./kmod-usb-serial-pl2303_3.10.49-1_ar71xx.ipk
 Generating index for package ./kmod-usb-storage_3.10.49-1_ar71xx.ipk
 Generating index for package ./kmod-usb-storage-extras_3.10.49-1_ar71xx.ipk
+Generating index for package ./libattr_20140610-1_ar71xx.ipk
 Generating index for package ./libblobmsg-json_2014-08-04-dffbc09baf71b294185a36048166d00066d433b5_ar71xx.ipk
 Generating index for package ./libdaq_1.1.1-1_ar71xx.ipk
 Generating index for package ./libdnet_1.11-2_ar71xx.ipk
+Generating index for package ./libffi_3.0.13-1_ar71xx.ipk
 Generating index for package ./libgcc_4.8-linaro-1_ar71xx.ipk
 Generating index for package ./libgdbm_1.11-1_ar71xx.ipk
 Generating index for package ./libip4tc_1.4.21-1_ar71xx.ipk
@@ -143,6 +148,7 @@ Generating index for package ./libpthread_0.9.33.2-1_ar71xx.ipk
 Generating index for package ./librpc_0.9.32-rc2-0a2179bbc0844928f2a0ec01dba93d9b5d6d41a7_ar71xx.ipk
 Generating index for package ./librt_0.9.33.2-1_ar71xx.ipk
 Generating index for package ./libstdcpp_4.8-linaro-1_ar71xx.ipk
+Generating index for package ./libsysfs_2.1.0-2_ar71xx.ipk
 Generating index for package ./libubox_2014-08-04-dffbc09baf71b294185a36048166d00066d433b5_ar71xx.ipk
 Generating index for package ./libubus_2014-09-17-4c4f35cf2230d70b9ddd87638ca911e8a563f2f3_ar71xx.ipk
 Generating index for package ./libubus-lua_2014-09-17-4c4f35cf2230d70b9ddd87638ca911e8a563f2f3_ar71xx.ipk
@@ -151,6 +157,7 @@ Generating index for package ./libuci-lua_2014-04-11.1-1_ar71xx.ipk
 Generating index for package ./libusb-1.0_1.0.9-1_ar71xx.ipk
 Generating index for package ./libustream-polarssl_2014-03-25-fc0b5ec804ee43c532978dd04ab0509c34baefb0_ar71xx.ipk
 Generating index for package ./libuuid_2.24.1-1_ar71xx.ipk
+Generating index for package ./libwrap_7.6-1_ar71xx.ipk
 Generating index for package ./libxtables_1.4.21-1_ar71xx.ipk
 Generating index for package ./lua_5.1.5-1_ar71xx.ipk
 Generating index for package ./luci_0.12+git-15.112.69076-6153b99-1_ar71xx.ipk
@@ -188,11 +195,13 @@ Generating index for package ./openvpn-easy-rsa_2013-01-30-2_ar71xx.ipk
 Generating index for package ./openvpn-polarssl_2.3.4-1_ar71xx.ipk
 Generating index for package ./opkg_9c97d5ecd795709c8584e972bfdf3aee3a5b846d-7_ar71xx.ipk
 Generating index for package ./p910nd_0.95-3_ar71xx.ipk
+Generating index for package ./privoxy_3.0.21-1_ar71xx.ipk
 Generating index for package ./procd_2014-09-15-c1a558f7d0c1e6c1ffa5a47d557a7b45205eef1d_ar71xx.ipk
 Generating index for package ./px5g_1_ar71xx.ipk
 Generating index for package ./relayd_2014-06-29-8b20ffae06b9b7fcc6fb52d3b8a80b45ed424e39_ar71xx.ipk
 Generating index for package ./snort_2.9.2.2-3_ar71xx.ipk
 Generating index for package ./ss_3.15.0-1_ar71xx.ipk
+Generating index for package ./ssmtp_2.64-4_ar71xx.ipk
 Generating index for package ./swconfig_10_ar71xx.ipk
 Generating index for package ./tc_3.15.0-1_ar71xx.ipk
 Generating index for package ./tcpdump-mini_4.5.1-4_ar71xx.ipk
@@ -205,6 +214,9 @@ Generating index for package ./uci_2014-04-11.1-1_ar71xx.ipk
 Generating index for package ./uclibcxx_0.2.4-1_ar71xx.ipk
 Generating index for package ./uhttpd_2014-08-25-dabd7dea6445aaa0e5b8d9add1872fa7393b3a85_ar71xx.ipk
 Generating index for package ./uhttpd-mod-ubus_2014-08-25-dabd7dea6445aaa0e5b8d9add1872fa7393b3a85_ar71xx.ipk
+Generating index for package ./usbip_1.1.1-3_ar71xx.ipk
+Generating index for package ./usbip-client_1.1.1-3_ar71xx.ipk
+Generating index for package ./usbip-server_1.1.1-3_ar71xx.ipk
 Generating index for package ./usbutils_007-1_ar71xx.ipk
 Generating index for package ./wpad_2014-06-03.1-1_ar71xx.ipk
 Generating index for package ./zlib_1.2.8-1_ar71xx.ipk
