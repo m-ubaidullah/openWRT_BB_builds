@@ -1,1 +1,0 @@
-scripts/feeds install olsrd luci-app-olsr openvpn netdiscover wol etherwake tcpdump-mini dsniff iperf arpwatch hping3 netstat-nat ssmtp iptraf freeradius2 openldap-server
